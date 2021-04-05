@@ -7,4 +7,4 @@
 
 Пример:
 
-![alt text](./screen_video.gif)
+[![Watch the video](./screen_video.png)](https://youtu.be/TeOwEtaCdAk)
