@@ -1,18 +1,18 @@
-# Telegram Replay Bot
+# Telegram Reply Bot
 
-This is a simple Telegram bot that forwards messages sent to it to a group chat and sends back any replies to those messages to the original sender with the prefix replay-bot. The bot is written in TypeScript and uses the Telegraf library.
+This is a simple Telegram bot that forwards messages sent to it to a group chat and sends back any replies to those messages to the original sender with the prefix reply-bot. The bot is written in TypeScript and uses the Telegraf library.
 
 
 ## Getting started
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/nik19ta/replay-bot.git
+git clone https://github.com/nik19ta/reply-bot.git
 ```
 
 2. Install dependencies:
 ```bash
-cd replay-bot
+cd reply-bot
 npm install
 ```
 
@@ -45,11 +45,11 @@ npm start
 ```
 
 ## Usage
-Send a message to the bot and it will be forwarded to the group chat. If anyone in the group replies to that message, the bot will send the reply back to the original sender with the prefix `replay-bot`.
+Send a message to the bot and it will be forwarded to the group chat. If anyone in the group replies to that message, the bot will send the reply back to the original sender with the prefix `reply-bot`.
 
 ## Demo:
 
 [![Watch the video](./screen_video.png)](https://youtu.be/TeOwEtaCdAk)
 
 ## License
-This project is licensed under the MIT [License](https://github.com/nik19ta/replay-bot/blob/master/LICENSE.md). See the LICENSE file for details.
+This project is licensed under the MIT [License](https://github.com/nik19ta/reply-bot/blob/master/LICENSE.md). See the LICENSE file for details.
