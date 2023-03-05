@@ -47,10 +47,9 @@ npm start
 ## Usage
 Send a message to the bot and it will be forwarded to the group chat. If anyone in the group replies to that message, the bot will send the reply back to the original sender with the prefix `replay-bot`.
 
-## License
-This project is licensed under the MIT [License](https://github.com/nik19ta/replay-bot/blob/master/LICENSE.md). See the LICENSE file for details.
-
-
-Demo:
+## Demo:
 
 [![Watch the video](./screen_video.png)](https://youtu.be/TeOwEtaCdAk)
+
+## License
+This project is licensed under the MIT [License](https://github.com/nik19ta/replay-bot/blob/master/LICENSE.md). See the LICENSE file for details.
